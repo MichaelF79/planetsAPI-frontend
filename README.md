@@ -1,1 +1,1 @@
-# planetsAPI-frontend
+# planetsapi-frontend
