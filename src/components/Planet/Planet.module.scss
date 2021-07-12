@@ -1,0 +1,19 @@
+.planet {
+  display: grid;
+  grid-template-columns: 60px repeat(4, 1fr) 50px;
+  text-align: center;
+  gap: 1px;
+  background-color: rgb(252, 252, 252);
+  p {
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px;
+  }
+  button {
+    background-color: rgb(255, 1, 1);
+    border: solid 1px rgb(17, 17, 17);
+    border-radius: 10px;
+    color: white;
+  }
+}

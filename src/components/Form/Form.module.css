@@ -1,0 +1,37 @@
+section {
+  margin: auto;
+  border: 1px solid white;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  padding-top: 0px;
+  background-color: rgba(0, 26, 128, 0.981);
+  border-radius: 25px;
+}
+section p {
+  margin: 10px;
+  margin-bottom: 3px;
+  text-align: left;
+  color: white;
+  font-weight: 600;
+}
+section input {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: 600;
+}
+section h3 {
+  text-align: center;
+  font-weight: 600;
+  color: white;
+}
+section button {
+  width: 75px;
+  align-self: center;
+  margin-top: 30px;
+  color: white;
+  background-color: #055c05;
+  font-weight: 600;
+  border-radius: 15px;
+}
